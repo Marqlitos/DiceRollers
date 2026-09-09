@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollers</string>
+    <string name="roll">¡Lanzar dado!</string>
+    <string name="text">¡Toca el boton para girar el dado!</string>
+</resources>
